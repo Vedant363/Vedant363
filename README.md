@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vedant</h1>
+<!--
 <h3 align="center">A passionate Software Developer</h3>
 
+<!--
 <p align="center">
   <a href="https://github.com/Vedant363"><img src="https://img.shields.io/github/followers/Vedant363?label=Followers&style=social" alt="GitHub Followers"></a>
 </p>
@@ -14,6 +16,7 @@
 - ⚡ Fun fact **[A Fun Fact About You]**
 -->
 
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/vedant-ghumde363" target="blank">
