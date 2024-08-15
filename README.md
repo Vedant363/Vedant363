@@ -1,6 +1,13 @@
 <!--
 <img align="center" alt="GIF" src="giphy.gif" width="1000" height="250" />
 -->
+<div style="display: flex;">
+  <img align="center" alt="GIF" src="cat.gif" width="200" height="100" />
+  <img align="center" alt="GIF" src="cat.gif" width="200" height="100" />
+  <img align="center" alt="GIF" src="cat.gif" width="200" height="100" />
+  <img align="center" alt="GIF" src="cat.gif" width="200" height="100" />
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=45&center=true&vCenter=true&width=750&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+Vedant+Ghumade;Nice+to+meet+you!">
 </p>
@@ -217,3 +224,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Vedant363"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yourusername" /></a></p><br><br>
 -->
+
+<div style="display: flex;">
+  <img align="center" alt="GIF" src="cat.gif" width="200" height="100" />
+  <img align="center" alt="GIF" src="cat.gif" width="200" height="100" />
+  <img align="center" alt="GIF" src="cat.gif" width="200" height="100" />
+  <img align="center" alt="GIF" src="cat.gif" width="200" height="100" />
+</div>
+
