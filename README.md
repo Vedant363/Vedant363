@@ -1,6 +1,8 @@
-  <img align="center" alt="Banner" src="gifhy.gif" width="1000" height="250" />
+<!--
+<img align="center" alt="GIF" src="giphy.gif" width="1000" height="250" />
+-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=30&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+Vedant+Ghumade;Nice+to+meet+you!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=45&center=true&vCenter=true&width=750&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+Vedant+Ghumade;Nice+to+meet+you!">
 </p>
 
 
@@ -82,7 +84,7 @@
   
 </div>
 <div align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vedant363&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vedant363&layout=compact&theme=chartreuse-dark" />
 <div align='center'>
 
 
@@ -90,17 +92,18 @@
 
 <div style="display: flex; gap: 200px;">
   <a href="https://github.com/Vedant363">
-    <img src="https://github-stats-lemon.vercel.app/api?username=Vedant363&show_icons=true&hide_border=true&theme=react">
+    <img src="https://github-stats-lemon.vercel.app/api?username=Vedant363&show_icons=true&hide_border=true&theme=chartreuse-dark">
   </a>
 </div>
 
 <br>
 
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedant363&theme=react-dark)
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedant363&theme=github-compact)
 
 <br>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant363&theme=react">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant363&theme=chartreuse-dark">
+
 
 <!--
 <a href="https://visitcount.itsvg.in">
