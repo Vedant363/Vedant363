@@ -1,13 +1,14 @@
 <!--
 <img align="center" alt="GIF" src="giphy.gif" width="1000" height="250" />
 -->
+<!--
 <div style="display: flex;">
   <img align="center" alt="GIF" src="cat.gif" width="200" height="100" />
   <img align="center" alt="GIF" src="cat.gif" width="200" height="100" />
   <img align="center" alt="GIF" src="cat.gif" width="200" height="100" />
   <img align="center" alt="GIF" src="cat.gif" width="200" height="100" />
 </div>
-
+-->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=45&center=true&vCenter=true&width=750&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+Vedant+Ghumade;Nice+to+meet+you!">
 </p>
@@ -23,7 +24,7 @@
 <table align="center">
 <tr>
 <td>Language</td>
-<td> <a href="https://github.com/Prathamesh-chougale-17" >
+<td> <a href="https://github.com/Vedant363" >
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </a> 
 </td>
@@ -31,7 +32,7 @@
 
 <tr>
 <td>Development</td>
-<td> <a href="https://github.com/Prathamesh-chougale-17" >
+<td> <a href="https://github.com/Vedant363" >
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
   </a>
 </td>
@@ -39,7 +40,7 @@
 
 <tr>
 <td>CSS Framework</td>
-<td> <a href="https://github.com/Prathamesh-chougale-17" >
+<td> <a href="https://github.com/Vedant363" >
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
   </a>
  </td>
@@ -47,7 +48,7 @@
 
 <tr>
 <td>Frontend Framework</td>
-<td> <a href="https://github.com/Prathamesh-chougale-17" >
+<td> <a href="https://github.com/Vedant363" >
     <img src="https://skillicons.dev/icons?i=react,vite,next" />
   </a>
  </td>
@@ -55,7 +56,7 @@
 
 <tr>
 <td>Backend Framework</td>
-<td> <a href="https://github.com/Prathamesh-chougale-17" >
+<td> <a href="https://github.com/Vedant363" >
     <img src="https://skillicons.dev/icons?i=nodejs,express" />
    </a>
 </td>
@@ -63,7 +64,7 @@
 
 <tr>
 <td>Database</td>
-<td> <a href="https://github.com/Prathamesh-chougale-17" >
+<td> <a href="https://github.com/Vedant363" >
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
    </a>
 </td>
@@ -71,14 +72,14 @@
 
 <tr>
 <td>Hosting</td>
-<td> <a href="https://github.com/Prathamesh-chougale-17" >
+<td> <a href="https://github.com/Vedant363" >
     <img src="https://skillicons.dev/icons?i=vercel,firebase,github,aws" />
   </a>
 </td>
 </tr>
 <tr>
 <td>Tools</td>
-<td> <a href="https://github.com/Prathamesh-chougale-17" >
+<td> <a href="https://github.com/Vedant363" >
     <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,docker,replit,stackoverflow,postman" />
   </a>
 </td>
@@ -224,11 +225,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Vedant363"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yourusername" /></a></p><br><br>
 -->
-
+<!--
 <div style="display: flex;">
   <img align="center" alt="GIF" src="cat.gif" width="200" height="100" />
   <img align="center" alt="GIF" src="cat.gif" width="200" height="100" />
   <img align="center" alt="GIF" src="cat.gif" width="200" height="100" />
   <img align="center" alt="GIF" src="cat.gif" width="200" height="100" />
 </div>
-
+-->
