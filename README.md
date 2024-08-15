@@ -77,8 +77,9 @@
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=Vedant363&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fefefe&area=true" alt="GitHub Activity Graph" /> -->
 </p>
 
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedant363&bg_color=050505&color=fdfcfc&line=28a4f0&point=1303fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
+ -->
 
 <!--
 <h3 align="left">Support:</h3>
