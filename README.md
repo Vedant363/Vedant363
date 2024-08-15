@@ -1,4 +1,4 @@
-  <img align="right" alt="Banner" src="github_banner.png" width="1000" height="380" />
+  <img align="center" alt="Banner" src="gifhy.gif" width="1000" height="250" />
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=30&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+Vedant+Ghumade;Nice+to+meet+you!">
 </p>
