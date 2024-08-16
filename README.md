@@ -16,9 +16,14 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/vedant-ghumde363" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="prathamesh-chougale-17" height="30" width="30" /></a>
-<a href="#" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="prathamesh_chougale_17" height="30" width="30" /></a>
-<div>
+    <a href="https://www.linkedin.com/in/vedant-ghumde363" target="_blank">
+        <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Vedant363" height="30" width="30" />
+    </a>
+    <a href="https://www.github.com/Vedant363" target="_blank">
+        <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="prathamesh_chougale_17" height="30" width="30" />
+    </a>
+</p>
+
 <br>
 <h1 align="center">Languages and Tools:</h1>
 <table align="center">
